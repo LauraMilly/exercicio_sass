@@ -2,7 +2,7 @@
 
 ## 📁 Project Structure
 
-```bash``
+```
 exercicio/
 │
 ├── index.html            🌐 # Main page of the project
@@ -20,7 +20,7 @@ exercicio/
 ├── style/
 │   ├── style.css         🖌️ # Compiled CSS file from SASS
 └── README.md             📖 # Project documentation
-
+```
 
 ## 📝 Description
 
